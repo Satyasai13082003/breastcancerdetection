@@ -5,7 +5,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> **Final Year B.Tech Project**  
 > Deep Learning Approach for Automated Medical Image Analysis using **VGG16 Transfer Learning**, **Grad-CAM Visualization**, and a **GUI Interface**.
 
 ---
@@ -262,16 +261,6 @@ This project demonstrates a complete deep learning pipeline for **medical image 
 - Rigorous evaluation
 
 It serves as a strong foundation for **medical AI research** and is suitable for **educational and research purposes**.
-
----
-
-## 📬 Contact & License
-
-**Author**: satish varma 
-**Institution**: Srkr Engineering College – B.Tech in CSBS  
-**Email**: satishvarmaoleti09@.com  
-**GitHub**: @satish811  https://github.com/satish811
-
 
 
 ---
